@@ -13,7 +13,6 @@ from CRM_utils import make_D, numerical_error, has_converged, make_C
 
 # GLOBAL_PARAMS
 # From 6A_estmate_paramtersmax uptake rates consumer preference distribution
-# D_log10_dist = st.norm(loc=-3.48, scale = 1.35)  # Parameters for log10 of D distribution
 C_dist = st.lognorm(0.91, scale=1.44, loc=0)
 D_dist = st.uniform(0, 1)
 
