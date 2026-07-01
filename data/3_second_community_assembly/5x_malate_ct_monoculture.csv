@@ -1,0 +1,16 @@
+Time,Condition,Replicate,CFU_per_mL,OD
+Inoculum,Control,1,19000000,
+Day 1,no-carbon control,1,100000000,0.05
+Day 1,no-carbon control,2,80000000,0.05
+Day 1,1X malate,1,1800000000,1.82
+Day 1,1X malate,2,1700000000,1.78
+Day 1,5X malate,1,6400000000,3.45
+Day 1,5X malate,2,5500000000,3.68
+Day 3,no-carbon control,1,25000000,
+Day 3,1X malate,1,350000000,
+Day 3,5X malate,1,1000000,
+Day 3,5X malate,2,1000000,
+Day 6,no-carbon control,1,40000000,
+Day 6,1X malate,1,2600000000,
+Day 6,5X malate,1,ND,
+Day 6,5X malate,2,ND
