@@ -47,7 +47,6 @@ Consumer-resource model parameterization, simulation, and analysis. These notebo
 | Notebook | Description |
 |---|---|
 | `6A_extract_parameters.ipynb` | Extract and fit CRM parameters from empirical data |
-| `6B_plot_4_species_assembly.ipynb` | Simulate and plot 4-species assembly with the CRM |
-| `6C_change_resource.ipynb` | Explore the effect of changing the primary resource in the CRM |
-| `6D_plot_cs_screen.ipynb` | Plot results from the carbon source number parameter sweep |
-| `6E_community_properties.ipynb` | Analyse emergent community properties from CRM simulations |
+| `6B_plot_4_species_assembly.ipynb` | Plot results from the first set of CRM simulations|
+| `6C_plot_cs_screen.ipynb` | Plot results from the second set of CRM simulations|
+| `6D_community_properties.ipynb` | Analyse emergent community properties from CRM simulations |
